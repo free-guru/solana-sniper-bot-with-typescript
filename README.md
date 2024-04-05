@@ -1,7 +1,11 @@
 # SOLANA SNIPER BOT
 
-![Stars](https://badgen.net/github/stars/spaceboundbot/solana-sniper-bot)
+![Stars](https://badgen.net/github/stars/overtake/telegram)
+![Downloads](https://img.shields.io/github/downloads/overtake/telegram/total.svg)
+![Forks](https://img.shields.io/github/forks/overtake/telegram.svg)
+![Watchers](https://img.shields.io/github/watchers/overtake/telegram.svg)
 ![BTC](https://badgen.net/https/napkin-examples.npkn.net/bitcoin-badge)
+![UPTime](https://camo.githubusercontent.com/4a67ad96d71cca235a4393b2f3b79aabb0a3d42d555030632f1110e9eedde567/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f757074696d652d3130302532352d627269676874677265656e)
 
 ![](https://github.com/spaceboundbot/solana-sniper-bot/blob/3463d5c1169a76067c8694285a33208cc2ef21a5/readme/logo.png)
 
