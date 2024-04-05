@@ -2,7 +2,7 @@
 
 ![Stars](https://badgen.net/github/stars/spaceboundbot/solana-sniper-bot)
 ![BTC](https://badgen.net/https/napkin-examples.npkn.net/bitcoin-badge)
-![BTC](https://www.tradingview.com/symbols/SOLUSD/)
+![BTC](https://www.tradingview.com/symbols/SOLUSD)
 
 ![](https://github.com/spaceboundbot/solana-sniper-bot/blob/3463d5c1169a76067c8694285a33208cc2ef21a5/readme/logo.png)
 
