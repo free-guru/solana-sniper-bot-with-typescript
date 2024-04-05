@@ -99,7 +99,7 @@ It will buy only when new pool is open for trading. If you want to buy token tha
 > FIX: Go to dex and swap some SOL to USDC/WSOL. When you swap sol to wsol you should see it in wallet.
 
 ## 🛸 CONTACT
-Discord: `@spacebound`
+Discord: `@spaceboundbot`
 
 ## 🛰 Disclaimer
 Use this script at your own risk.
