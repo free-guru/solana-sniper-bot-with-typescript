@@ -2,7 +2,7 @@
 
 ![](https://github.com/spaceboundbot/solana-sniper-bot/blob/3463d5c1169a76067c8694285a33208cc2ef21a5/readme/logo.png)
 
-**Solana SPL Token Sniper Bot** that listens to new Raydium USDC or SOL pools and buys tokens for a fixed amount in USDC/SOL. 
+**Solana SPL Token Sniper Bot** that listens to new Raydium USDC or SOL pools and buys tokens for a fixed amount in USDC/SOL.
 Depending on the speed of the RPC node, the purchase usually happens before the token is available on Raydium UI for swapping.
 
 - `WSOL Snipe`
@@ -16,7 +16,7 @@ Depending on the speed of the RPC node, the purchase usually happens before the 
 > [!NOTE]
 > This is provided as is, for learning purposes.
 
-![Stars](https://badgen.net/github/stars/spaceboundbot/solana-sniper-bot)
+![Stars](https://img.shields.io/github/stars/spaceboundbot/solana-sniper-bot.svg)
 ![Downloads](https://img.shields.io/github/downloads/spaceboundbot/solana-sniper-bot/total.svg)
 ![UPTime](https://camo.githubusercontent.com/4a67ad96d71cca235a4393b2f3b79aabb0a3d42d555030632f1110e9eedde567/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f757074696d652d3130302532352d627269676874677265656e)
 ![Forks](https://img.shields.io/github/forks/spaceboundbot/solana-sniper-bot.svg)
