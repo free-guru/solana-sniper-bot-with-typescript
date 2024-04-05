@@ -18,9 +18,9 @@ Depending on the speed of the RPC node, the purchase usually happens before the 
 
 ![Stars](https://img.shields.io/github/stars/spaceboundbot/solana-sniper-bot.svg)
 ![Downloads](https://img.shields.io/github/downloads/spaceboundbot/solana-sniper-bot/total.svg)
-![UPTime](https://camo.githubusercontent.com/4a67ad96d71cca235a4393b2f3b79aabb0a3d42d555030632f1110e9eedde567/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f757074696d652d3130302532352d627269676874677265656e)
 ![Forks](https://img.shields.io/github/forks/spaceboundbot/solana-sniper-bot.svg)
 ![Watchers](https://img.shields.io/github/watchers/spaceboundbot/solana-sniper-bot.svg)
+![UPTime](https://camo.githubusercontent.com/4a67ad96d71cca235a4393b2f3b79aabb0a3d42d555030632f1110e9eedde567/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f757074696d652d3130302532352d627269676874677265656e)
 
 ## 👾 SETUP
 To run the script you need to:
