@@ -16,7 +16,7 @@ Depending on the speed of the RPC node, the purchase usually happens before the 
 > [!NOTE]
 > This is provided as is, for learning purposes.
 
-![Stars](https://img.shields.io/github/stars/spaceboundbot/solana-sniper-bot.svg)
+![Stars](https://badgen.net/github/stars/spaceboundbot/solana-sniper-bot)
 ![Downloads](https://img.shields.io/github/downloads/spaceboundbot/solana-sniper-bot/total.svg)
 ![Forks](https://img.shields.io/github/forks/spaceboundbot/solana-sniper-bot.svg)
 ![Watchers](https://img.shields.io/github/watchers/spaceboundbot/solana-sniper-bot.svg)
