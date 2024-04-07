@@ -25,8 +25,8 @@ Depending on the speed of the RPC node, the purchase usually happens before the 
 ## 👾 SETUP
 To run the script you need to:
 1. Create a new empty Solana wallet
-2. Transfer some SOL to it.
-3. Convert some SOL to USDC or WSOL (you need USDC or WSOL depending on the configuration set below).
+2. Transfer some SOL to it
+3. Convert some SOL to USDC or WSOL (you need USDC or WSOL depending on the configuration set below)
 
 ## 🚀 CONFIG
 1. Configure the script by updating `.env.copy` file (**remove the .copy from the file name when done**).
