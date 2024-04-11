@@ -111,6 +111,7 @@ Discord: `@spaceboundbot`
 
 ## 🛰 Disclaimer
 
-> [!NOTE]
+> [!IMPORTANT]
 > Use this script at your own risk.
+
 > `This script may contain various bugs.`
