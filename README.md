@@ -36,13 +36,15 @@ To run the script you need to:
 5. `QUOTE_MINT` (which pools to snipe, USDC or WSOL)
 6. `QUOTE_AMOUNT` (amount used to buy each new token)
 7. `COMMITMENT_LEVEL`
-8. `USE_SNIPE_LIST` (buy only tokens listed in snipe-list.txt)
-9. `SNIPE_LIST_REFRESH_INTERVAL` (how often snipe list should be refreshed in milliseconds)
-10. `CHECK_IF_MINT_IS_RENOUNCED` (script will buy only if mint is renounced)
-11. `MIN_POOL_SIZE` (script will buy only if pool size is greater than specified amount)
-12. `TAKE_PROFIT=200` (in %)
-13. `STOP_LOSS=90` (in %)
-14. `BIRDEYE_API_KEY=` generate here : https://birdeye.so/user/profile#security
+8. `CHECK_IF_IS_BURNED` (soon)
+9. `CHECK_IF_IS_LOCKED` (soon)
+10. `USE_SNIPE_LIST` (buy only tokens listed in snipe-list.txt)
+11. `SNIPE_LIST_REFRESH_INTERVAL` (how often snipe list should be refreshed in milliseconds)
+12. `CHECK_IF_MINT_IS_RENOUNCED` (script will buy only if mint is renounced)
+13. `MIN_POOL_SIZE` (script will buy only if pool size is greater than specified amount)
+14. `TAKE_PROFIT=200` (in %)
+15. `STOP_LOSS=90` (in %)
+16. `BIRDEYE_API_KEY=` generate here : https://birdeye.so/user/profile#security
 
 ![](https://github.com/spaceboundbot/solana-sniper-bot/blob/a89029370948ee62093a92a347b22e155f1fabac/readme/env.png)
   
