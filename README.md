@@ -110,6 +110,6 @@ It will buy only when new pool is open for trading. If you want to buy token tha
 Discord: `@spaceboundbot`
 
 ## 🛰 Disclaimer
-`Use this script at your own risk.`
+Use this script at your own risk.
 
-This script may contain various bugs.
+`This script may contain various bugs.`
