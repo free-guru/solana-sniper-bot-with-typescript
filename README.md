@@ -42,8 +42,8 @@ To run the script you need to:
 11. `SNIPE_LIST_REFRESH_INTERVAL` (how often snipe list should be refreshed in milliseconds)
 12. `CHECK_IF_MINT_IS_RENOUNCED` (script will buy only if mint is renounced)
 13. `MIN_POOL_SIZE` (script will buy only if pool size is greater than specified amount)
-14. `TAKE_PROFIT=200` (in %)
-15. `STOP_LOSS=90` (in %)
+14. `TAKE_PROFIT=300` (in %)
+15. `STOP_LOSS=50` (in %)
 16. `BIRDEYE_API_KEY=` generate here : https://birdeye.so/user/profile#security
 
 ![](https://github.com/spaceboundbot/solana-sniper-bot/blob/a89029370948ee62093a92a347b22e155f1fabac/readme/env.png)
