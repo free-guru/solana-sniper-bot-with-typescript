@@ -44,11 +44,13 @@ To run the script you need to:
 13. `STOP_LOSS=90` (in %)
 14. `BIRDEYE_API_KEY=` generate here : https://birdeye.so/user/profile#security
 
-![](https://github.com/spaceboundbot/solana-sniper-bot/blob/d62fbcd7b7a3cc6511fd1dbde8ae6bdabf33f37d/readme/bot.png)
+![](https://github.com/spaceboundbot/solana-sniper-bot/blob/a89029370948ee62093a92a347b22e155f1fabac/readme/env.png)
   
 ## 🛸 INSTALL
 1. Install dependencies by typing: `npm install`
 2. Run the script by typing: `npm run buy` in terminal
+
+![](https://github.com/spaceboundbot/solana-sniper-bot/blob/d62fbcd7b7a3cc6511fd1dbde8ae6bdabf33f37d/readme/bot.png)
 
 ## 🛰 TAKE PROFIT
 
