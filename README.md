@@ -79,7 +79,7 @@ By default, auto sell is enabled. If you want to disable it, you need to:
 If you set AUTO_SELL_DELAY to 0, token will be sold immediately after it is bought.
 There is no guarantee that the token will be sold at a profit or even sold at all. The developer is not responsible for any losses incurred by using this feature.
 
-![](https://github.com/spaceboundbot/solana-sniper-bot/blob/b89b45022cf82ac9bcc592338bedbceaac1c3354/readme/token.png)
+![200% TAKE PROFIT](https://github.com/spaceboundbot/solana-sniper-bot/blob/b89b45022cf82ac9bcc592338bedbceaac1c3354/readme/token.png)
 
 ## 👾 SNIPE LIST
 By default, script buys each token which has a new liquidity pool created and open for trading. 
