@@ -5,10 +5,6 @@
 **Solana SPL Token Sniper Bot** that listens to new Raydium USDC or SOL pools and buys tokens for a fixed amount in USDC/SOL. 
 Depending on the speed of the RPC node, the purchase usually happens before the token is available on Raydium UI for swapping.
 
-https://jup.ag/
-
-![](https://github.com/spaceboundbot/solana-sniper-bot/blob/e3912c0235ab9048f18e8868adca8da7a382e40d/readme/wrap.png)
-
 - `WSOL Snipe`
 - `Auto-Sell`
 - `TP/SL`
@@ -31,6 +27,10 @@ To run the script you need to:
 1. Create a new empty Solana wallet
 2. Transfer some SOL to it
 3. Convert some SOL to USDC or WSOL (you need USDC or WSOL depending on the configuration set below)
+
+https://jup.ag/
+
+![](https://github.com/spaceboundbot/solana-sniper-bot/blob/e3912c0235ab9048f18e8868adca8da7a382e40d/readme/wrap.png)
 
 ## 🚀 CONFIG
 1. Configure the script by updating `.env.copy` file (**remove the .copy from the file name when done**).
