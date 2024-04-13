@@ -125,7 +125,7 @@ export const areEnvVarsSet = () =>
   ['KEY_PAIR_PATH', 'SOLANA_CLUSTER_URL'].every((key) => Object.keys(process.env).includes(key));
 
 const handleSlotChange = (args: SlotChangeInput) => async (_: SlotInfo) => {
-  await sleep(700000);
+  await sleep(800000);
   try {
 
     isRunning.next(true);
