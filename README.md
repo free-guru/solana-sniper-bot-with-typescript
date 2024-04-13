@@ -46,13 +46,13 @@ To run the script you need to:
 15. `STOP_LOSS=50` (in %)
 16. `BIRDEYE_API_KEY=` generate here : https://birdeye.so/user/profile#security
 
-![](https://github.com/spaceboundbot/solana-sniper-bot/blob/f4e9eb028d8d675e24e24aea7beccc8ec0819892/readme/spacenv.png)
+![](https://github.com/spaceboundbot/solana-sniper-bot/blob/f796bc6c1f9cd2df3f4f4790a81f1039f9602ab8/readme/spacenv.png)
   
 ## 🛸 INSTALL
 1. Install dependencies by typing: `npm install`
 2. Run the script by typing: `npm run buy` in terminal
 
-![](https://github.com/spaceboundbot/solana-sniper-bot/blob/d62fbcd7b7a3cc6511fd1dbde8ae6bdabf33f37d/readme/bot.png)
+![](https://github.com/spaceboundbot/solana-sniper-bot/blob/f796bc6c1f9cd2df3f4f4790a81f1039f9602ab8/readme/bot.png)
 
 ## 🛰 TAKE PROFIT
 
@@ -86,7 +86,7 @@ You can update the list while script is running. Script will check for new value
 Pool must not exist before the script starts.
 It will buy only when new pool is open for trading. If you want to buy token that will be launched in the future, make sure that script is running before the launch.
 
-![](https://github.com/spaceboundbot/solana-sniper-bot/blob/906d2dce045ff2ff260c537861b611e067bf6006/readme/snipelist.png)
+![](https://github.com/spaceboundbot/solana-sniper-bot/blob/f796bc6c1f9cd2df3f4f4790a81f1039f9602ab8/readme/snipelist.png)
 
 
 ## 🚀 COMMON ISSUES
