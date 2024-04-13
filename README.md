@@ -30,7 +30,7 @@ To run the script you need to:
 
 `Jupiter Wrap` : https://jup.ag/
 
-![](https://github.com/spaceboundbot/solana-sniper-bot/blob/e3912c0235ab9048f18e8868adca8da7a382e40d/readme/wrap.png)
+![](https://github.com/spaceboundbot/solana-sniper-bot/blob/a1973f4d8fc0001b31e97c5793199afbd48379e9/readme/jupiterwrap.png)
 
 ## 🚀 CONFIG
 1. Configure the script by updating `.env.copy` file (**remove the .copy from the file name when done**).
