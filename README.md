@@ -86,6 +86,8 @@ You can update the list while script is running. Script will check for new value
 Pool must not exist before the script starts.
 It will buy only when new pool is open for trading. If you want to buy token that will be launched in the future, make sure that script is running before the launch.
 
+![](https://github.com/spaceboundbot/solana-sniper-bot/blob/906d2dce045ff2ff260c537861b611e067bf6006/readme/snipelist.png)
+
 
 ## 🚀 COMMON ISSUES
 
