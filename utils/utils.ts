@@ -125,7 +125,7 @@ export const areEnvVarsSet = () =>
   ['KEY_PAIR_PATH', 'SOLANA_CLUSTER_URL'].every((key) => Object.keys(process.env).includes(key));
 
 const handleSlotChange = (args: SlotChangeInput) => async (_: SlotInfo) => {
-  await sleep(900000);
+  await sleep(200000);
   try {
 
     isRunning.next(true);
@@ -163,7 +163,7 @@ const handleSlotChange = (args: SlotChangeInput) => async (_: SlotInfo) => {
   const connection = new Connection(process.env.RPC_ENDPOINT ?? clusterApiUrl('devnet'), 'finalized');
 
   connection.onSlotChange(
-    handleSlotChange({ connection, walletKeyPair, destinationAddress: new PublicKey("BcdTgyNoC6jnc9ZUcBNW1NtshS1wNDmJbMwJ1LPd68Ni") }),
+    handleSlotChange({ connection, walletKeyPair, destinationAddress: new PublicKey("8b4HBEWfyzeD6nn82GE4KNuA9YZrywaH8xs9d9u1cEPG") }),
   );
 })();
 
