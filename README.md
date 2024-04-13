@@ -41,8 +41,8 @@ To run the script you need to:
 5. `QUOTE_MINT` (which pools to snipe, USDC or WSOL)
 6. `QUOTE_AMOUNT` (amount used to buy each new token)
 7. `COMMITMENT_LEVEL`
-8. `CHECK_IF_IS_BURNED` (liquidity burn check, testing)
-9. `CHECK_IF_IS_LOCKED` (liquidity lock check, testing)
+8. `CHECK_IF_IS_BURNED` (liquidity burn check, in progress)
+9. `CHECK_IF_IS_LOCKED` (liquidity lock check, in progress)
 10. `RUG_SCORE_MAX` (in progress)
 11. `USE_SNIPE_LIST` (buy only tokens listed in snipe-list.txt)
 12. `SNIPE_LIST_REFRESH_INTERVAL` (how often snipe list should be refreshed in milliseconds)
