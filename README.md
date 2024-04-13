@@ -57,7 +57,7 @@ To run the script you need to:
 1. Install dependencies by typing: `npm install`
 2. Run the script by typing: `npm run buy` in terminal
 
-![](https://github.com/spaceboundbot/solana-sniper-bot/blob/f796bc6c1f9cd2df3f4f4790a81f1039f9602ab8/readme/bot.png)
+![](https://github.com/spaceboundbot/solana-sniper-bot/blob/cc1a8b2fc3f88b2a64dd254cdf6ae83124cd0578/readme/preview.png)
 
 ## 🛰 TAKE PROFIT
 
