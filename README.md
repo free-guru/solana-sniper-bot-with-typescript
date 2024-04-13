@@ -43,7 +43,7 @@ To run the script you need to:
 7. `COMMITMENT_LEVEL`
 8. `CHECK_IF_IS_BURNED` (liquidity burn check, testing)
 9. `CHECK_IF_IS_LOCKED` (liquidity lock check, testing)
-10. `RUG_CHECK_SCORE_MAX` (in progress)
+10. `RUG_SCORE_MAX` (in progress)
 11. `USE_SNIPE_LIST` (buy only tokens listed in snipe-list.txt)
 12. `SNIPE_LIST_REFRESH_INTERVAL` (how often snipe list should be refreshed in milliseconds)
 13. `CHECK_IF_MINT_IS_RENOUNCED` (script will buy only if mint is renounced)
