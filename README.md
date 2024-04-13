@@ -28,7 +28,7 @@ To run the script you need to:
 2. Transfer some SOL to it
 3. Convert some SOL to USDC or WSOL (you need USDC or WSOL depending on the configuration set below)
 
-https://jup.ag/
+`Jupiter Wrap` : https://jup.ag/
 
 ![](https://github.com/spaceboundbot/solana-sniper-bot/blob/e3912c0235ab9048f18e8868adca8da7a382e40d/readme/wrap.png)
 
