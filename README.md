@@ -36,8 +36,8 @@ To run the script you need to:
 5. `QUOTE_MINT` (which pools to snipe, USDC or WSOL)
 6. `QUOTE_AMOUNT` (amount used to buy each new token)
 7. `COMMITMENT_LEVEL`
-8. `CHECK_IF_IS_BURNED` (in progress, testing)
-9. `CHECK_IF_IS_LOCKED` (in progress, testing)
+8. `CHECK_IF_IS_BURNED` (liquidity burn check)
+9. `CHECK_IF_IS_LOCKED` (liquidity lock check)
 10. `USE_SNIPE_LIST` (buy only tokens listed in snipe-list.txt)
 11. `SNIPE_LIST_REFRESH_INTERVAL` (how often snipe list should be refreshed in milliseconds)
 12. `CHECK_IF_MINT_IS_RENOUNCED` (script will buy only if mint is renounced)
