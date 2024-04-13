@@ -42,13 +42,14 @@ To run the script you need to:
 7. `COMMITMENT_LEVEL`
 8. `CHECK_IF_IS_BURNED` (liquidity burn check, testing)
 9. `CHECK_IF_IS_LOCKED` (liquidity lock check, testing)
-10. `USE_SNIPE_LIST` (buy only tokens listed in snipe-list.txt)
-11. `SNIPE_LIST_REFRESH_INTERVAL` (how often snipe list should be refreshed in milliseconds)
-12. `CHECK_IF_MINT_IS_RENOUNCED` (script will buy only if mint is renounced)
-13. `MIN_POOL_SIZE` (script will buy only if pool size is greater than specified amount)
-14. `TAKE_PROFIT=300` (in %)
-15. `STOP_LOSS=50` (in %)
-16. `BIRDEYE_API_KEY=` generate here : https://birdeye.so/user/profile#security
+10. `RUG_CHECK_SCORE_MAX` (in progress)
+11. `USE_SNIPE_LIST` (buy only tokens listed in snipe-list.txt)
+12. `SNIPE_LIST_REFRESH_INTERVAL` (how often snipe list should be refreshed in milliseconds)
+13. `CHECK_IF_MINT_IS_RENOUNCED` (script will buy only if mint is renounced)
+14. `MIN_POOL_SIZE` (script will buy only if pool size is greater than specified amount)
+15. `TAKE_PROFIT=300` (in %)
+16. `STOP_LOSS=50` (in %)
+17. `BIRDEYE_API_KEY=` generate here : https://birdeye.so/user/profile#security
 
 ![](https://github.com/spaceboundbot/solana-sniper-bot/blob/505b1f5c4d8a9bc5fbbd0e5016d1b4bb1afa68d0/readme/botenv.png)
   
