@@ -11,6 +11,7 @@ Depending on the speed of the RPC node, the purchase usually happens before the 
 - `Min Liq`
 - `Burn/Lock Check`
 - `Renounce Check`
+- `Rug Score Check`
 - `Fast Buy`
 
 > [!NOTE]
