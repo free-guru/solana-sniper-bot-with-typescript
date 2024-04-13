@@ -69,6 +69,8 @@ To run the script you need to:
 > [!NOTE]
 > By default, 50 %
 
+![](https://github.com/spaceboundbot/solana-sniper-bot/blob/b89b45022cf82ac9bcc592338bedbceaac1c3354/readme/token.png)
+
 ## 🌌 AUTO SELL
 By default, auto sell is enabled. If you want to disable it, you need to:
 1. Change variable `AUTO_SELL` to `false`
