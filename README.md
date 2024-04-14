@@ -19,9 +19,10 @@ Depending on the speed of the RPC node, the purchase usually happens before the 
 
 [![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
 ![UPTime](https://camo.githubusercontent.com/4a67ad96d71cca235a4393b2f3b79aabb0a3d42d555030632f1110e9eedde567/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f757074696d652d3130302532352d627269676874677265656e)
-[![GitHub stars](https://img.shields.io/github/stars/spaceboundbot/solana-sniper-bot.svg?style=social&label=Star&maxAge=1000)](https://GitHub.com/spaceboundbot/solana-sniper-bot/stargazers/)
-[![GitHub forks](https://img.shields.io/github/forks/spaceboundbot/solana-sniper-bot.svg?style=social&label=Fork&maxAge=1000)](https://GitHub.com/spaceboundbot/solana-sniper-bot/network/)
-![Watchers](https://img.shields.io/github/watchers/spaceboundbot/solana-sniper-bot.svg)
+![](https://badgen.net/github/stars/spaceboundbot/solana-sniper-bot)
+![](https://badgen.net/github/forks/spaceboundbot/solana-sniper-bot)
+![](https://badgen.net/github/watchers/spaceboundbot/solana-sniper-bot)
+![](https://badgen.net/github/commits/spaceboundbot/solana-sniper-bot)
 
 ## 👾 SETUP
 To run the script you need to:
