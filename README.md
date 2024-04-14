@@ -50,7 +50,7 @@ To run the script you need to:
 14. `MIN_POOL_SIZE` (script will buy only if pool size is greater than specified amount)
 15. `TAKE_PROFIT=300` (in %)
 16. `STOP_LOSS=50` (in %)
-17. `BIRDEYE_API_KEY=` generate here : https://birdeye.so/user/profile#security
+17. `BIRDEYE_API_KEY=` (TP/SL, Burn/Lock) generate here : https://birdeye.so/user/profile#security
 
 ![](https://github.com/spaceboundbot/solana-sniper-bot/blob/505b1f5c4d8a9bc5fbbd0e5016d1b4bb1afa68d0/readme/botenv.png)
   
